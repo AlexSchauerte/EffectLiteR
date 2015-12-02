@@ -1,5 +1,10 @@
 ## package EffectLiteR
 
+############################
+#### Alex testet Github ####
+############################
+
+
 ######################## class definitions #####################
 
 ## structure of class effectlite
